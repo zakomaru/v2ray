@@ -135,7 +135,7 @@ create_vmess_URL_config() {
 		cat >/etc/v2ray/vmess_qr.json <<-EOF
 			{
 				"v": "2",
-				"ps": "233v2.com_${domain}",
+				"ps": "melo_${domain}",
 				"add": "${domain}",
 				"port": "443",
 				"id": "${v2ray_id}",
