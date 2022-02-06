@@ -1011,7 +1011,7 @@ esac
 clear
 while :; do
 	echo
-	echo "........... V2Ray 一键安装脚本 & 管理脚本 by 233v2.com .........."
+	echo "........... V2Ray 一键安装脚本 by Melo .........."
 	echo
 	echo "帮助说明: https://233v2.com/post/1/"
 	echo
